@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TestTaskArbuz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choosePlace">Выберите место на грядке</string>
+    <string name="status">Статус арбуза:</string>
+    <string name="weight">Вес арбуза</string>
+    <string name="count">Количество</string>
+    <string name="counter">- 1 +</string>
+    <string name="address">Адрес доставки</string>
+    <string name="street">Улица и номер дома</string>
+    <string name="flat">Квартира</string>
+    <string name="floor">Этаж</string>
+    <string name="date">Дата доставки</string>
+    <string name="time">Время доставки</string>
+    <string name="order">Подвердить заказ</string>
+    <string name="place">1 грядка 3 место</string>
+    <string name="pieces">Нарезать дольками?</string>
+    <string name="information">Контактная информация</string>
+    <string name="name">Имя получателя</string>
+    <string name="comment">Комментарий</string>
+    <string name="ura">Урааа</string>
+    <string name="your_order_has_been_successfully_placed">Ваш заказ был успешно размещен!!</string>
+    <string name="thank_you_for_ordering_through_arbuz">Благодарим Вас за заказ через Arbuz</string>
+    <string name="ok">OK</string>
+    <string name="speliy">спелый</string>
+    <string name="city">Город</string>
+</resources>
